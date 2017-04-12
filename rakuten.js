@@ -1,3 +1,18 @@
+// ==UserScript==
+// @name        gggg
+// @namespace   mykuukan
+// @run-at document-end
+// @grant          unsafeWindow
+// @grant          GM_xmlhttpRequest
+// @grant          GM_addStyle
+// @grant          GM_getResourceText
+// @grant          GM_getResourceURL
+// @grant          GM_getValue
+// @grant          GM_setValue
+// @grant          GM_openInTab
+// @exclude     https://*.visualstudio.com/*
+// ==/UserScript==
+
 function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
