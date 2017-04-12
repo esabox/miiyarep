@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         pointatume2
 // @namespace    miiya
-// @homepageURL https://gist.github.com/esabox/fba49da6a8f99c728243488b4de3bc4b/edit
+// @homepageURL  https://gist.github.com/esabox/fba49da6a8f99c728243488b4de3bc4b/edit
 // @version      0.1
 // @description  try to take over the world!
 // @author       You
