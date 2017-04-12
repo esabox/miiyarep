@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         pointatume3
+// @name         pointatume4
 // @namespace    miiya
 // @homepageURL  https://gist.github.com/esabox/fba49da6a8f99c728243488b4de3bc4b/edit
 // @version      0.1
